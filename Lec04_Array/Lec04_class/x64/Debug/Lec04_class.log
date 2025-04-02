@@ -1,0 +1,14 @@
+﻿  name.cpp
+C:\Users\USER\Desktop\data-structure-lab-2025\Lec04_Array\Lec04_class\Car.h(26,10): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'Car *'입니다.
+  (소스 파일 'name.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\USER\Desktop\data-structure-lab-2025\Lec04_Array\Lec04_class\Car.h(26,10): warning C4313: 'printf': 서식 문자열의 '%x'이(가) Car *' 형식의 인수 1과(와) 충돌합니다.
+  (소스 파일 'name.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\USER\Desktop\data-structure-lab-2025\Lec04_Array\Lec04_class\name.cpp(12,23): error C2661: 'SportsCar::SportsCar': 오버로드된 함수에서 3개의 인수를 사용하지 않습니다.
+  C:\Users\USER\Desktop\data-structure-lab-2025\Lec04_Array\Lec04_class\name.cpp(12,23):
+  인수 목록 '(int, const char [6], int)'을(를) 일치시키는 동안
+  
+  Complex.h
+C:\Users\USER\Desktop\data-structure-lab-2025\Lec04_Array\Lec04_class\Complex.h(16,23): error C2143: 구문 오류: ','이(가) '문자열' 앞에 없습니다.
+  코드를 생성하고 있습니다...
