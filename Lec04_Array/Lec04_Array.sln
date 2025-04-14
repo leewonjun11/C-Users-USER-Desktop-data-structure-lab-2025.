@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lec04_Array", "Lec04_Array\Lec04_Array.vcxproj", "{12C5748F-B665-4E91-8787-A9C0229C7F97}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lec04_class", "Lec04_class\Lec04_class.vcxproj", "{C1C920DE-F37D-4BE0-901E-887E78562781}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{12C5748F-B665-4E91-8787-A9C0229C7F97}.Release|x64.Build.0 = Release|x64
 		{12C5748F-B665-4E91-8787-A9C0229C7F97}.Release|x86.ActiveCfg = Release|Win32
 		{12C5748F-B665-4E91-8787-A9C0229C7F97}.Release|x86.Build.0 = Release|Win32
+		{C1C920DE-F37D-4BE0-901E-887E78562781}.Debug|x64.ActiveCfg = Debug|x64
+		{C1C920DE-F37D-4BE0-901E-887E78562781}.Debug|x64.Build.0 = Debug|x64
+		{C1C920DE-F37D-4BE0-901E-887E78562781}.Debug|x86.ActiveCfg = Debug|Win32
+		{C1C920DE-F37D-4BE0-901E-887E78562781}.Debug|x86.Build.0 = Debug|Win32
+		{C1C920DE-F37D-4BE0-901E-887E78562781}.Release|x64.ActiveCfg = Release|x64
+		{C1C920DE-F37D-4BE0-901E-887E78562781}.Release|x64.Build.0 = Release|x64
+		{C1C920DE-F37D-4BE0-901E-887E78562781}.Release|x86.ActiveCfg = Release|Win32
+		{C1C920DE-F37D-4BE0-901E-887E78562781}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
